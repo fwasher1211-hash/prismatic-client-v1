@@ -1,0 +1,2 @@
+smooth.ttf is Liberation Sans Bold, copyright Red Hat, Inc., licensed under the SIL Open Font License 1.1.
+https://scripts.sil.org/OFL
